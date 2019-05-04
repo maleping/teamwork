@@ -1,5 +1,4 @@
 package JuyThirteenthJStuMangeSys;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.InputMismatchException;
@@ -7,13 +6,12 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 /**
- * @date 2018/4/20
+ * @date 2019/4/20
  * @author HCQ
  * @see 学生信息管理系统
  */
 public class StudentManageSystem {
     private static Scanner sc;
-
     public static void main(String[] args) {
         //简单的欢迎界面
         System.out.println("---------------------------------");
